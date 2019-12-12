@@ -3,3 +3,37 @@ Theme Name: twentyseventeenChild
 Template: twentyseventeen
 */
 
+p {
+	font-family: sans-serif;
+	font-size: 100%;
+	line-height: 1.15;
+	margin: 0;
+		color:black;
+}
+
+h1 {
+	font-family: monospace;
+	font-size: 100%;
+	line-height: 1.15;
+	background-color: coral;
+}
+
+h3{
+ font-size: 1rem;
+ background-color: red;
+}
+
+.single-post .entry-title, .page .entry-title{
+ font-size: 3.5em;
+ color: black;
+ font-family: monospace;
+}
+
+.site-footer {
+    background-color: red;
+    
+}
+
+.wrap {
+	   background-color:#DFF9CC ;
+}
