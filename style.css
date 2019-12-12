@@ -6,21 +6,24 @@ Template: twentyseventeen
 p {
 	font-family: sans-serif;
 	font-size: 100%;
-	line-height: 1.15;
-	margin: 0;
-		color:black;
+	color:black;
 }
 
+
 h1 {
-	font-family: monospace;
-	font-size: 100%;
-	line-height: 1.15;
-	background-color: coral;
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2{
+ font-size: 2rem;
+ color: #E04B52;
 }
 
 h3{
- font-size: 1rem;
- background-color: red;
+ font-size: 2rem;
+ color: #1182BF ;
 }
 
 .single-post .entry-title, .page .entry-title{
@@ -30,10 +33,9 @@ h3{
 }
 
 .site-footer {
-    background-color: red;
-    
+    background-color: #BAF690 ;
 }
 
-.wrap {
-	   background-color:#DFF9CC ;
+.site-content {
+    background-color: #BAF690 ;
 }
